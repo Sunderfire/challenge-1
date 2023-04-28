@@ -4,9 +4,11 @@
 
 This is my repo for my first coding bootcamp challenge.  In this project, I have taken preexisting code and "tidied" it up to be more concise for soe optimization and accessibility. It has allowed me to better understand the structure of HTML and CSS and practise what each is capable of.  I also got to practise creating a new repo in Github, clone it locally, and push my changes to the main branch.  Lastly I got to practise making this README.
 
-## Installation
+## Links
 
-N/A
+[Github](https://github.com/Sunderfire/challenge-1.git)
+
+[Live Website](https://sunderfire.github.io/challenge-1/)
 
 ## Usage
 
@@ -24,4 +26,5 @@ Refer to License
 
 ## Tests
 
-Launch index.html in preview to see what's up.
+Launch index.html in preview to see what's up
+
